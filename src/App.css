@@ -13,7 +13,8 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  margin: 2rem auto;
+  margin: 12rem auto;
+  height: 100%;
 }
 .card__wrapper {
   display: flex;
