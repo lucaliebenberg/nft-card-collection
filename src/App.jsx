@@ -15,6 +15,7 @@ import NFT7 from "../src/assets/nft-image-7.png";
 const App = () => {
   return (
     <div className="App">
+      {/* <div className="container"> */}
       <Card
         image={NFT1}
         title="#3429"
@@ -57,6 +58,7 @@ const App = () => {
         description="One-of-a-kind pattern that has been hand crafted by famous computer wizard called Bill Gates."
         price="0.001 ETH"
       />
+      {/* </div> */}
     </div>
   );
 };

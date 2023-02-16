@@ -1,21 +1,24 @@
 body {
   background-color: #0D192C;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   height: 100vh;
-  margin: 5rem auto;
+  width: 100vw;
 }
 
 .App {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap;
-  margin: 12rem auto;
+  height:100%;
   height: 100%;
+  margin: 2rem 6rem;
 }
+/* .container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+} */
 .card__wrapper {
   display: flex;
   flex-direction: column;
@@ -24,7 +27,7 @@ body {
   border-radius: 15px;
   background-color: #15263F;
   box-shadow: 0px 25px 50px 0px #00000018;
-  margin: 2rem;
+  margin: 1.5rem;
 }
 
 .card__top {
