@@ -1,6 +1,6 @@
 body {
   background-color: #0D192C;
-  height: 100vh;
+  height: 100%;
   width: 100vw;
 }
 
@@ -13,6 +13,7 @@ body {
   height:100%;
   height: 100%;
   margin-left: 3.5rem;
+  margin-bottom: 1rem;
 }
 /* .container {
   display: flex;
