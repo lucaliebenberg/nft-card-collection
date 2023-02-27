@@ -4,6 +4,7 @@ import "./App.css";
 
 // imports
 import Card from "./components/Card";
+
 import NFT1 from "../src/assets/nft-image.png";
 import NFT2 from "../src/assets/nft-image-2.png";
 import NFT3 from "../src/assets/nft-image-3.png";
